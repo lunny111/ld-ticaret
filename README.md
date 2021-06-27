@@ -1,0 +1,2 @@
+# ld-ticaret
+Ticaret Script
